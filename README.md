@@ -4,7 +4,7 @@ This challenge is about the Application Programming Interface, also known by its
 
 ![image](https://user-images.githubusercontent.com/95872614/153463509-0e5be54d-7768-4864-97ec-307cf3e59d60.png)
 
-This challenge consists in the development of three sections: 
+This challenge consists in the development of three sections: Retrieve Weather Data, Create a Customer Travel Destinations Map and Create a Travel Itinerary Map.
 
 # 1. Retrieve Weather Data
 It was generated a set of 2,000 random latitudes and longitudes, retrieved the nearest city, and perform an API call with the OpenWeatherMap. In addition, it was retrieved the current weather description for each city. Finally, it is presented a new DataFrame containing the updated weather data.
@@ -16,7 +16,7 @@ The objective of this section was to use input statements to retrieve customer w
 
 ![image](https://user-images.githubusercontent.com/95872614/153463734-a7764d39-2eb2-4e3e-b243-6cb37dd1a9d2.png)
 
-![image](https://user-images.githubusercontent.com/95872614/153463742-ce893092-ee16-480c-85a2-b2fd486dc7f9.png)
+![image](https://user-images.githubusercontent.com/95872614/153464127-858f8a84-c01b-4dba-9603-5d4f9075a595.png)
 
 # 3. Create a Travel Itinerary Map
 The objective of this section was to be able to use Google Directions API to create a travel itinerary that shows the route between four cities: Wamba, Otukpo, Ekpoma and Warri these cities are in Nigeria. Afterwards, it was created a marker layer map with a pop-up marker for each city on the itinerary.
